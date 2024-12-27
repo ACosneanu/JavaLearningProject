@@ -38,6 +38,23 @@ public class CommentsAndVariables {
         lowerLimitOfDoubleDataType = -1.7E+308d;
         upperLimitOfDoubleDataType = 1.7E+308d;
         System.out.println("The value" +(int) lastCharFromAscii);
+        System.out.println( "The value" +(int)firstCharFromAscii);
+        System.out.println(falseBooleanVariable);
+        System.out.println(trueBooleanVariable);
+        System.out.println(lowerLimitOfByteDataType);
+        System.out.println(upperLimitOfByteDataType);
+        System.out.println(lowerLimitOfShortDataType);
+        System.out.println(upperLimitOfShortDataType);
+        System.out.println(lowerLimitOfIntDataType);
+        System.out.println(upperLimitOfIntDataType);
+        System.out.println(lowerLimitOfLongDataType);
+        System.out.println(upperLimitOfLongDataType);
+        System.out.println(lowerLimitOfFloatDataType);
+        System.out.println(upperLimitOfFloatDataType);
+        System.out.println(lowerLimitOfDoubleDataType);
+        System.out.println(upperLimitOfDoubleDataType);
+
+
 
     }
 
